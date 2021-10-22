@@ -1,0 +1,94 @@
+[
+  {
+    "key": 1,
+    "img": "https://doctime.com.bd/images/pages/welcome/nilima.png",
+    "title": "Dr. Nilima",
+    "specialist": "Physicology",
+    "Fees": 29.99,
+    "designation": "Senior Consultant",
+    "rating": 5,
+    "ratingCount": "320"
+
+  },
+  {
+    "key": 2,
+    "img": "https://doctime.com.bd/images/pages/welcome/nilima.png",
+    "title": "DR. SYEDA SHARMIN ZAMAL",
+    "specialist": "Medichine",
+    "Fees": 34.79,
+    "designation": "Junior Consultant",
+    "rating": 4.2,
+    "ratingCount": "450"
+
+  },
+  {
+    "key": 3,
+    "img": "https://doctime.com.bd/images/pages/welcome/nilima.png",
+    "title": "Dr. Nayema",
+    "specialist": "Cardiology",
+    "Fees": 18.9,
+    "designation": "Assistant Professor & Senior Consultant",
+    "rating": 4,
+    "ratingCount": "680"
+  },
+  {
+    "key": 4,
+    "img": "https://doctime.com.bd/images/pages/welcome/nilima.png",
+    "title": "Dr. Raya",
+    "specialist": "Assistant Professor",
+    "Fees": 48.69,
+    "designation": "Junior Consultant",
+    "rating": 3.5,
+    "ratingCount": "350"
+  },
+  {
+    "key": 5,
+    "img": "https://doctime.com.bd/images/pages/welcome/nilima.png",
+    "title": "DR. NANDITA PAUL",
+    "specialist": "MBBS, FCPS(Gynecological Oncology), FCPS(Gynae & Obs)",
+    "Fees": 48.69,
+    "designation": "Consultant",
+    "rating": 4.5,
+    "ratingCount": "560"
+  },
+  {
+    "key": 6,
+    "img": "https://doctime.com.bd/images/pages/welcome/nilima.png",
+    "title": "Professor Dr. Nazlima Nargis",
+    "specialist": "MBBS, FCPS(Gynecological Oncology), FCPS(Gynae & Obs)",
+    "Fees": 48.69,
+    "designation": "Senior Consultant",
+    "rating": 4.0,
+    "ratingCount": "500"
+  },
+  {
+    "key": 7,
+    "img": "https://doctime.com.bd/images/pages/welcome/nilima.png",
+    "title": "Dr. Kamrun Sattar (Dalia)",
+    "specialist": "Assistant Professor",
+    "Fees": 42.29,
+    "designation": "Sergery",
+    "rating": 3.5,
+    "ratingCount": "500"
+  },
+  {
+    "key": 8,
+    "img": "https://doctime.com.bd/images/pages/welcome/nilima.png",
+    "title": "Dr. Chowdhury Shamima Sultana",
+    "specialist": "Assistant Professor & Senior Consultant",
+    "Fees": 47.69,
+    "designation": "Professor & Consaltant",
+    "rating": 4.5,
+    "ratingCount": "500"
+  },
+  {
+    "key": 9,
+    "img": "https://doctime.com.bd/images/pages/welcome/nilima.png",
+    "title": "Senior Consultant",
+    "specialist": "Limelight could well be blinding as well as addictive.",
+    "Fees": 48.69,
+    "designation": "Junior Consaltant",
+    "rating": 4.0,
+    "ratingCount": "500"
+  }
+]
